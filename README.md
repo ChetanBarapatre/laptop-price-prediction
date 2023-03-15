@@ -4,6 +4,10 @@
 
 The problem statement is that if any user wants to buy a laptop then our application should be compatible to provide a tentative price of laptop according to the user configurations. Although it looks like a simple project or just developing a model, the dataset we have is noisy and needs lots of feature engineering, and preprocessing that will drive your interest in developing this project.
 
+Dashboard link
+
+https://public.tableau.com/app/profile/chetan.d.barapatre/viz/laptoppriceprediction/Dashboard1
+
 #EDA Insights
 ![image](https://user-images.githubusercontent.com/117656346/221354593-2bc20ecf-7fef-4bcb-87e5-f23ad1a38c9b.png)
 ![image](https://user-images.githubusercontent.com/117656346/221354681-28ea9663-cd51-41ca-9a99-52e77d16e053.png)
